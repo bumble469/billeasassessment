@@ -1,5 +1,9 @@
 # billeasassessment
 
+# CLONE REPO
+git clone https://github.com/bumble469/billeasassessment.git
+cd your-repo-name
+
 ## Setup
 
 1. Install dependencies:  
