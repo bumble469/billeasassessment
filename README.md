@@ -1,8 +1,9 @@
 # billeasassessment
 
 # CLONE REPO
-git clone https://github.com/bumble469/billeasassessment.git
-cd your-repo-name
+1. git clone https://github.com/bumble469/billeasassessment.git
+   
+3. cd your-repo-name
 
 ## Setup
 
